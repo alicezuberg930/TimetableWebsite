@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block head %}
+{% endblock %}
+{% block body %}
+{% for t in TimeTableList %}
+<span>{{ t }}</span>
+{% endfor %}
+<form action="/" method="post">
+    <input type="text" name="student_id" width="200" height="30" placeholder="Nhập mã số sinh viên">
+    <input type="submit" value="Search">
+</form>
+
+{% endblock %}

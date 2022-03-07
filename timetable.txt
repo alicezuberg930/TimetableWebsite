@@ -1,0 +1,164 @@
+841067
+Thương mại điện tử & ứng dụng
+02
+3
+DCT1192
+3
+01
+Ba
+Ba
+7
+9
+2
+2
+C.E402
+C.B109
+11426
+11426
+123456789012345
+123456789012345
+DSSV
+DSSV
+DSSV
+841114
+Phát triển ứng dụng trên thiết bị di động
+05
+3
+DCT1195
+3
+01
+Tư
+Tư
+7
+9
+2
+2
+C.E403
+C.B108
+10601
+10601
+123456789012345
+123456789012345
+DSSV
+DSSV
+DSSV
+841119
+An ninh mạng máy tính
+06
+3
+DCT1196
+3
+01
+Bảy
+Bảy
+6
+1
+2
+2
+C.A106
+C.A308
+11143
+11143
+123456789012345
+123456789012345
+DSSV
+DSSV
+DSSV
+841120
+An toàn và bảo mật dữ liệu trong HTTT
+10
+3
+DCT1193
+3
+01
+Hai
+Tư
+6
+1
+2
+2
+C.A110
+C.A502
+11556
+11556
+123456789012345
+123456789012345
+DSSV
+DSSV
+DSSV
+841310
+Lý thuyết đồ thị
+04
+3
+DCT1204
+3
+Sáu
+6
+3
+C.A306
+10943
+123456789012345
+DSSV
+DSSV
+841405
+Xác suất thống kê
+06
+3
+DCT1216
+3
+Bảy
+3
+3
+C.A308
+10932
+123456789012345
+DSSV
+DSSV
+861305
+Lịch sử Đảng Cộng sản Việt Nam
+01
+2
+2
+Ba
+1
+2
+1.A202
+10832
+123456789012345
+DSSV
+DSSV
+866102
+Tiếng Anh II
+10
+2
+2
+Ba
+4
+2
+1.C204
+11294
+123456789012345
+DSSV
+DSSV
+BORO11
+Bóng rổ 1
+06
+1
+1
+Tư
+3
+2
+C.SBCH2
+11233
+123456789012345
+DSSV
+DSSV
+Ghi chú: ĐK: đăng ký; Mã MH: mã môn học; NMH: Nhóm môn học; TTH: Tổ thực hành; STC: Số tín chỉ; STCHP: Số tín chỉ học phí; CL: Còn lại; TH: Thực hành, KDK: Không cho phép đăng ký;Tiết BD: Tiết bắt đầu; ST : Số Tiết; CBGD: Mã cán bộ giảng dạy; DSSV: Danh sách sinh viên;
+( Dữ liệu được cập nhật vào lúc: 21:0 Ngày: 28/1/2022)
+&#13; &#13; .style3&#13; {&#13; width: 70px;&#13; }&#13; .style4&#13; {&#13; width: 129px;&#13; }&#13; .style5&#13; {&#13; width: 1019px;&#13; }&#13; &#13;
+Copyright ©2009 Trường ĐH Sài Gòn-Đại học chính quy. Quản lý bởi Ủy ban nhân dân TP. Hồ Chí Minh
+Trang Chủ
+Thiết kế bởi cty Phần mềm Anh Quân
+Đầu Trang
+About
+&#13; //<![CDATA[&#13; Sys.Application.initialize();&#13; Sys.Application.add_init(function() {&#13; $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"msgbox_messagemodalbackground","CancelControlID":"ctl00_ContentPlaceHolder1_ctl00_MessageBox1_imgCloseButton","OkControlID":"ctl00_ContentPlaceHolder1_ctl00_MessageBox1_btnOk","PopupControlID":"ctl00_ContentPlaceHolder1_ctl00_MessageBox1_panelMessageBox","dynamicServicePath":"/Default.aspx","id":"ctl00_ContentPlaceHolder1_ctl00_MessageBox1_ajaxModal"}, null, null, $get("ctl00_ContentPlaceHolder1_ctl00_MessageBox1_lbTarget"));&#13; });&#13; //]]>&#13;
